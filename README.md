@@ -19,7 +19,7 @@ This web app will be used to display animal facts from four different animals. T
 Please follow this HTML + CSS guideline
 [https://codeguide.co/]
 
-## How to Rum
+## How to Run
 * Can run locally.
 * If on Visual Studio Code, can either right click and select Open in Browser
 * Or can get Live Server extension
