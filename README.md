@@ -17,7 +17,7 @@ This web app will be used to display animal facts from four different animals. T
 
 ## Code Guidelines
 Please follow this HTML + CSS guideline
-[https://codeguide.co/](Guidebook)
+[https://codeguide.co/]
 
 ## How to Rum
 * Can run locally.
