@@ -15,6 +15,10 @@ This web app will be used to display animal facts from four different animals. T
 4. Push to your branch.
 5. Open a pull request. Please include a screenshot of your work.
 
+## Code Guidelines
+Please follow this HTML + CSS guideline
+[https://codeguide.co/](Guidebook)
+
 ## How to Rum
 * Can run locally.
 * If on Visual Studio Code, can either right click and select Open in Browser
