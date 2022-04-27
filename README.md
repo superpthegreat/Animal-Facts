@@ -1,6 +1,9 @@
 # Animal-Facts
 
 ## Project Description
+This web app will be used to display animal facts from four different animals. These animals are Sloths, Blobfishes, Proboscious Monkeys, and Elephant Seals.
+
+## Languages
 * HTML
 * CSS
 * Javascript (if needed)
