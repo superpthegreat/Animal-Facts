@@ -1,1 +1,16 @@
 /* main css file */
+
+/* blobfish page - attributes (start) */
+body {
+    background-image: url(./blobfish-img/oceanfloor.jpg);
+    background-color: #cccccc;
+   }
+
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid pink;
+    padding: 10px;
+    text-align: center;
+  }
+/* blobfish page - attributes (end) */
