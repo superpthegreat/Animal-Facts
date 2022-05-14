@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <title>Elephant Seal Facts</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <h1>Elephant Seal Facts</h1>
+
+    <p>Male elephant seals weigh as much as a small truck!</p>
+    <p>They can cover 60 miles a day when they head out to sea!</p>
+    <p>Elephant seals are shielded from extreme cold more by their blubber than their fur</p>
+
+    <img src="https://news.ucsc.edu/2015/08/images/male-calling-350.jpg" width="500" height="auto">
+
+    <img src="https://i.natgeofe.com/n/7a79f681-aa65-4fe9-be60-6734bc38b939/elephant-seals_thumb_4x3.jpg" width="400" height="500">
+
+    <div>
+        <a href="index.html">Home</a>
+    </div>
+
+</body>
+</html>
